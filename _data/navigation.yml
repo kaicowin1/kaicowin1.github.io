@@ -1,10 +1,12 @@
 # main links
 main:
-  - title: "About Us"
+  - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Members"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Accomplishments"
+  - title: "Blog"
     url: /year-archive/
-  - title: "Contact Us"
+  - title: "Contact"
+    url: /sitemap/
+  - title: "Donate"
     url: /sitemap/
