@@ -4,8 +4,8 @@ main:
     url: /_pages/about/
   - title: "Members"
     url: /_pages/members/
-  - title: "Blog"
-    url: /_pages/blog/
+  - title: "Law Review"
+    url: /_pages/law-review/
   - title: "Contact"
     url: /_pages/contact/
   - title: "Donate"
