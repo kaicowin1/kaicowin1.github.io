@@ -153,8 +153,8 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    #- label: "Bitbucket"
+      #icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -261,7 +261,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
- #- jekyll-feed
+  - jekyll-feed
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
@@ -269,7 +269,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-#  - jekyll-feed
+  - jekyll-feed
   - jekyll-include-cache
 
 
@@ -317,12 +317,13 @@ defaults:
       path: ""
       #type: posts
     values:
-      layout: single
+      layout: splash wide
       author_profile: false
       read_time: false
       comments: false
       share: false
       related: false
+      classes: wide
 
 excerpt: "Mission Statement"
 header:
