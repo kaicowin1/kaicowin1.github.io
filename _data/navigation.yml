@@ -4,10 +4,10 @@ main:
     url: /_pages/about/
   - title: "Members"
     url: /_pages/members/
-  - title: "Join Us"
-    url: /_pages/join-us/
   - title: "Law Review"
     url: /_pages/law-review/
+  - title: "Join Us"
+    url: /_pages/join-us/
   - title: "Contact"
     url: /_pages/contact/
   - title: "Donate"
