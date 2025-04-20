@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Professional Development"
-    url: /_pages/dev/
+  - title: "Projects"
+    url: /_pages/proj/
   - title: "CV"
     url: /_pages/cv/
